@@ -19,7 +19,7 @@
   "timestamp": "2020-06-12T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 1,
+      "chainId": 80001,
       "address": "0xff9b349ca85d724489c552157379fb82e3a70479",
       "symbol": "NSUI",
       "name": "NSUIToken",
@@ -27,17 +27,6 @@
       "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
       "tags": [
         "stablecoin"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
-      "symbol": "cUSDC",
-      "name": "Compound USD Coin",
-      "decimals": 8,
-      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
-      "tags": [
-        "compound"
       ]
     }
   ],
