@@ -20,9 +20,9 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "symbol": "USDC",
-      "name": "USD Coin",
+      "address": "0xff9b349ca85d724489c552157379fb82e3a70479",
+      "symbol": "NSUI",
+      "name": "NSUIToken",
       "decimals": 6,
       "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
       "tags": [
